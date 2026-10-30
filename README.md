@@ -61,3 +61,7 @@ scripts/make_reel.py        原图 / 成片对比拼图
 > 把这张动漫角色图转成真人 `D:\images\char.png`
 
 Agent 会按 `SKILL.md` 的流程：看图、写提示词、出图，最后交付对比拼图和成片。
+
+## 许可证
+
+[MIT](LICENSE)
