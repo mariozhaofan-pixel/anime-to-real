@@ -36,7 +36,7 @@ An agent skill that turns anime / ACG character art into a realistic head-and-sh
 - **Codex 等其他工具**：放到该工具的 skills 目录。
 
 ```bash
-git clone https://github.com/<owner>/anime-to-real ~/.claude/skills/anime-to-real
+git clone https://github.com/mariozhaofan-pixel/anime-to-real ~/.claude/skills/anime-to-real
 ```
 
 脚本需要 Python 3 和 Pillow（`pip install pillow`）。
